@@ -1,4 +1,4 @@
-# 🚀Olá! Me chamo Arthur Veríssimo
+# Olá! Me chamo Arthur Veríssimo 🚀
 
 ## 🧐 About:
 
