@@ -1,7 +1,6 @@
 # Olá! Me chamo Arthur Veríssimo 🚀
 
 ## 🧐 About:
-
 ---
 
 ```diff
@@ -14,7 +13,6 @@
 ```
 
 ## 🛠️ My Tools:
-
 ---
 
 ### 🌐 Frontend
@@ -46,7 +44,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
-
 ---
 
 ### 🧷 Social Medias
@@ -56,11 +53,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
 ---
 
 ## 🎮 Contributions:
-
 ---
 
 <picture>
