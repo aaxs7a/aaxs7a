@@ -60,19 +60,19 @@
     <img width="9" />
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
----
 
+---
 ### 🧷 Social Medias
+<p align="center">
   <a href="https://www.linkedin.com/in/arthurverissimo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+</p>
 
 ---
-
 ## 🎮 Contributions:
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaxs7a/aaxs7a/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaxs7a/aaxs7a/output/pacman-contribution-graph.svg">
