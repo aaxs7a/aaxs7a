@@ -1,6 +1,12 @@
-# Olá! Me chamo Arthur Veríssimo 🚀
+<div align="center">
+
+# Olá! Eu sou o Arthur Veríssimo 🚀
+
+<img src="https://media1.tenor.com/m/PPQdQblwtyAAAAAd/sabor-energ%C3%A9tico-sabor.gif" width="350" alt="Sabor Energético GIF">
 
 ## 🧐 About:
+
+</div>
 
 ---
 ```diff
