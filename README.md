@@ -13,7 +13,7 @@
 @@ I'm a lover of technology and art @@
 
 + 📍 Living in Recife, Pernambuco - Brasil 🇧🇷
-- 🎂 22 years old
+- 🎂 23 years old
 ! 🎓 System Development student at SENAI Areias
 # 💻 Focused on Backend Engineering ( Java & Node.js )
 ```
